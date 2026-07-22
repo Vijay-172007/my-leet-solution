@@ -18,6 +18,7 @@
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/Vijay-172007/my-leet-solution/tree/master/2652-sum-multiples) |
