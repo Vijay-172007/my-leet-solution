@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijay-172007/my-leet-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
@@ -30,12 +31,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijay-172007/my-leet-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
@@ -43,6 +46,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijay-172007/my-leet-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
