@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
