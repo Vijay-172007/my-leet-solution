@@ -102,6 +102,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
