@@ -95,6 +95,7 @@
 | [0016-3sum-closest](https://github.com/Vijay-172007/my-leet-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vijay-172007/my-leet-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Vijay-172007/my-leet-solution/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -116,6 +117,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vijay-172007/my-leet-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
