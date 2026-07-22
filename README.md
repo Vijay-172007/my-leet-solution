@@ -26,10 +26,12 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijay-172007/my-leet-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Binary Tree
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-172007/my-leet-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +82,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +98,7 @@
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,4 +134,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vijay-172007/my-leet-solution/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
