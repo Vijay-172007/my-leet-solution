@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijay-172007/my-leet-solution/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Vijay-172007/my-leet-solution/tree/master/0203-remove-linked-list-elements) |
 ## Math
