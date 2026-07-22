@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vijay-172007/my-leet-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-172007/my-leet-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vijay-172007/my-leet-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vijay-172007/my-leet-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
