@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijay-172007/my-leet-solution/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -138,4 +139,12 @@
 |  |
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
