@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+| [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Vijay-172007/my-leet-solution/tree/master/1920-build-array-from-permutation) |
+| [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 ## Greedy
 |  |
 | ------- |
