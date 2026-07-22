@@ -65,6 +65,7 @@
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-172007/my-leet-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vijay-172007/my-leet-solution/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0541-reverse-string-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## String Matching
 |  |
