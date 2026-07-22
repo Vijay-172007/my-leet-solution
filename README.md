@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijay-172007/my-leet-solution/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
 ## Recursion
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-172007/my-leet-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## String Matching
 |  |
@@ -117,6 +119,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0191-number-of-1-bits) |
 ## Stack
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
