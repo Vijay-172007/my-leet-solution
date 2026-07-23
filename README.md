@@ -20,7 +20,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijay-172007/my-leet-solution/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/Vijay-172007/my-leet-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
@@ -30,6 +29,7 @@
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijay-172007/my-leet-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/Vijay-172007/my-leet-solution/tree/master/2652-sum-multiples) |
 ## Recursion
@@ -183,6 +183,7 @@
 | [0190-reverse-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijay-172007/my-leet-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
