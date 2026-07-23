@@ -27,6 +27,7 @@
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/Vijay-172007/my-leet-solution/tree/master/2652-sum-multiples) |
 ## Recursion
@@ -212,10 +213,12 @@
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Interactive
 |  |
 | ------- |
