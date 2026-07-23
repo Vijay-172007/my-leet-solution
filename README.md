@@ -29,6 +29,7 @@
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Vijay-172007/my-leet-solution/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijay-172007/my-leet-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -43,6 +44,7 @@
 | [0206-reverse-linked-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vijay-172007/my-leet-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Vijay-172007/my-leet-solution/tree/master/0326-power-of-three) |
 ## Tree
 |  |
 | ------- |
