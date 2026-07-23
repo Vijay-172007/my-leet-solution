@@ -116,6 +116,7 @@
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0739-daily-temperatures](https://github.com/Vijay-172007/my-leet-solution/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 | [1920-build-array-from-permutation](https://github.com/Vijay-172007/my-leet-solution/tree/master/1920-build-array-from-permutation) |
@@ -177,6 +178,7 @@
 | [0020-valid-parentheses](https://github.com/Vijay-172007/my-leet-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijay-172007/my-leet-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Vijay-172007/my-leet-solution/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vijay-172007/my-leet-solution/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Vijay-172007/my-leet-solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
