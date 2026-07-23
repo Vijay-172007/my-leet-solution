@@ -21,6 +21,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijay-172007/my-leet-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Vijay-172007/my-leet-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
@@ -120,6 +121,7 @@
 | [0027-remove-element](https://github.com/Vijay-172007/my-leet-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vijay-172007/my-leet-solution/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Vijay-172007/my-leet-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0118-pascals-triangle) |
