@@ -24,6 +24,7 @@
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Vijay-172007/my-leet-solution/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 ## Greedy
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Vijay-172007/my-leet-solution/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
