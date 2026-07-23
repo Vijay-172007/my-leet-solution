@@ -27,6 +27,7 @@
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/Vijay-172007/my-leet-solution/tree/master/2652-sum-multiples) |
@@ -98,6 +99,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-172007/my-leet-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vijay-172007/my-leet-solution/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0541-reverse-string-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## String Matching
@@ -197,6 +199,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Vijay-172007/my-leet-solution/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 ## Greedy
