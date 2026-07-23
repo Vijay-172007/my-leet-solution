@@ -25,6 +25,7 @@
 | [0067-add-binary](https://github.com/Vijay-172007/my-leet-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vijay-172007/my-leet-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0263-ugly-number) |
@@ -94,6 +95,7 @@
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vijay-172007/my-leet-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
