@@ -130,6 +130,7 @@
 | [0018-4sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vijay-172007/my-leet-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vijay-172007/my-leet-solution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Vijay-172007/my-leet-solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vijay-172007/my-leet-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0088-merge-sorted-array) |
@@ -180,6 +181,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vijay-172007/my-leet-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0191-number-of-1-bits) |
@@ -233,6 +235,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vijay-172007/my-leet-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
