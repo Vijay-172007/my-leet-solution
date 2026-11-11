@@ -16,6 +16,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Vijay-172007/my-leet-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vijay-172007/my-leet-solution/tree/master/0234-palindrome-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-172007/my-leet-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 | [1920-build-array-from-permutation](https://github.com/Vijay-172007/my-leet-solution/tree/master/1920-build-array-from-permutation) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Vijay-172007/my-leet-solution/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -257,4 +261,16 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
