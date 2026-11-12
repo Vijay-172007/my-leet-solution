@@ -37,6 +37,7 @@
 | [0412-fizz-buzz](https://github.com/Vijay-172007/my-leet-solution/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vijay-172007/my-leet-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1447-simplified-fractions](https://github.com/Vijay-172007/my-leet-solution/tree/master/1447-simplified-fractions) |
 | [2582-pass-the-pillow](https://github.com/Vijay-172007/my-leet-solution/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/Vijay-172007/my-leet-solution/tree/master/2652-sum-multiples) |
 ## Recursion
@@ -121,6 +122,7 @@
 | [0709-to-lower-case](https://github.com/Vijay-172007/my-leet-solution/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Vijay-172007/my-leet-solution/tree/master/1108-defanging-an-ip-address) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
+| [1447-simplified-fractions](https://github.com/Vijay-172007/my-leet-solution/tree/master/1447-simplified-fractions) |
 ## String Matching
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0258-add-digits) |
+| [1447-simplified-fractions](https://github.com/Vijay-172007/my-leet-solution/tree/master/1447-simplified-fractions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -280,4 +283,12 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vijay-172007/my-leet-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Vijay-172007/my-leet-solution/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Vijay-172007/my-leet-solution/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
