@@ -141,6 +141,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
@@ -248,6 +249,7 @@
 | [0070-climbing-stairs](https://github.com/Vijay-172007/my-leet-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0120-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
