@@ -61,6 +61,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
@@ -77,6 +79,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Binary Tree
 |  |
@@ -88,6 +91,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
