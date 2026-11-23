@@ -70,6 +70,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Breadth-First Search
@@ -79,6 +80,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vijay-172007/my-leet-solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Binary Tree
@@ -149,6 +151,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vijay-172007/my-leet-solution/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +251,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
 ## Dynamic Programming
 |  |
