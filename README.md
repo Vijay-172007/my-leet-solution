@@ -161,6 +161,7 @@
 | [0136-single-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vijay-172007/my-leet-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Vijay-172007/my-leet-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vijay-172007/my-leet-solution/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vijay-172007/my-leet-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-172007/my-leet-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -210,6 +212,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vijay-172007/my-leet-solution/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -242,6 +245,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijay-172007/my-leet-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
