@@ -76,6 +76,7 @@
 | [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0543-diameter-of-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vijay-172007/my-leet-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0226-invert-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vijay-172007/my-leet-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Vijay-172007/my-leet-solution/tree/master/0200-number-of-islands) |
 | [1202-smallest-string-with-swaps](https://github.com/Vijay-172007/my-leet-solution/tree/master/1202-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vijay-172007/my-leet-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -310,4 +313,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Vijay-172007/my-leet-solution/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vijay-172007/my-leet-solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
